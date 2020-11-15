@@ -6,7 +6,7 @@
 <u><b>TODO:</b></u>
 
 - [x] Choose a plug-in.
-- [ ] Create directories for images, maps (shapefiles) and for the code.
+- [x] Create directories for images, maps (shapefiles) and for the code.
 - [ ] Thorough study of the plug-in.
 - [ ] Plug-in usage demonstration.
 - [ ] User manual. (Installation and usage)
